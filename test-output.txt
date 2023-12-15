@@ -1,0 +1,51 @@
+Name                 Abbreviation   
+===================================
+Alder                ALR            
+Crab Apple           CAP            
+Common Ash           CAS            
+Silver Birch         SBI            
+Downy Birch          DBI            
+European Beech       EBE            
+Box                  BOX            
+Wild Cherry          WCH            
+Bird Cherry          BCH            
+Blackthorn           BLN            
+Wych Elm             WEL            
+Smooth-leaved Elm    SEL            
+Common Hawthorn      CHA            
+Midland Hawthorn     MHA            
+European Hornbeam    EHO            
+Common Juniper       CJU            
+Small-leaved Lime    SLI            
+Large-leaved Lime    LLI            
+Field Maple          FMA            
+Pedunculate Oak      POA            
+Sessile Oak          SOA            
+Scots Pine           SPI            
+Aspen                ASN            
+Black Poplar         BPO            
+European Rowan       ERO            
+Common Whitebeam     CWH            
+Service Tree         STR            
+Wild Service Tree    WST            
+Bay Willow           BWI            
+Crack Willow         CWI            
+White Willow         WWI            
+Almond-leaved Willow AWI            
+European Yew         EYE            
+Alder Buckthorn      ABU            
+Purging Buckthorn    PBU            
+Elder                ELR            
+Common Dogwood       CDO            
+Rock Whitebeam       RWH            
+Sea-buckthorn        SEN            
+Spindle              SPE            
+Sallow               SAW            
+Grey Willow          GWI            
+Purple Willow        PWI            
+Common Osier         COS            
+Eared Willow         EWI            
+Guelder Rose         GRO            
+Wayfaring tree       WTR            
+Common Privet        CPR            
+Plot's Elm           PEL            

@@ -1,0 +1,20 @@
+Name                 Abbreviation   
+===================================
+Tony Stark           TST            
+Steve Rogers         SRO            
+Thor                 THR            
+Bruce Banner         BBA            
+Natasha Romanoff     NRO            
+Clint Barton         CBA            
+T'Challa             TCA            
+Stephen Strange      SST            
+Scott Lang           SLA            
+Peter Parker         PPA            
+Carol Danvers        CDA            
+Peter Quill          PQU            
+Gamora               GAA            
+Drax                 DRX            
+Rocket               ROT            
+Groot                GRT            
+Sam Wilson           SWI            
+Wanda Maximoff       WMA            
